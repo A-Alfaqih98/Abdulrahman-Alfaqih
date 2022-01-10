@@ -1,4 +1,4 @@
-# PASSIONATE web developer who are improving and learning by the day 
+# A PASSIONATE web developer who are improving/learning by the day 
 
 
 
