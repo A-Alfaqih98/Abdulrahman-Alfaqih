@@ -1,5 +1,5 @@
 ![alt text](https://github.com/Abdulrahman-alfaqih/Abdulrahman-Alfaqih/blob/fc96736e78b5ba329f959f18ddb7280df85a3b3f/Cover-photo-3.png)
-# PASSIONATE web developer who are learning by the day 
+# Passionate web developer who are learning by the day 
 
 
 
