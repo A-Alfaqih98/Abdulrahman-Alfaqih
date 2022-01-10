@@ -2,9 +2,9 @@
 
 
 
-I’m currently working on React Project
-I’m currently learning React
-I’m looking to collaborate on ... Any interresting Project :laughing::satisfied:
+- I’m currently working on React Project
+- I’m currently learning React
+- I’m looking to collaborate on ... Any interresting Project :laughing::satisfied:
 
 💬 Ask me about ... How do I like to drink my coffee :coffee:?
 
