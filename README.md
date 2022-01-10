@@ -1,16 +1,14 @@
-### Hi there 👋
+# A PASSIONATE web developer who are improving and learning and improving by the day 
 
-<!--
-**Abdulrahman-alfaqih/Abdulrahman-Alfaqih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# I’m currently working on React Project
+# I’m currently learning React
+# I’m looking to collaborate on ... Any interresting Project :laughing::satisfied:
+
+# 💬 Ask me about ... How do I like to drink my coffee :coffee:?
+
+# 📫 How to reach me: Abdulrahman.alfaqih98@gmail.com
+
+
+# ⚡ Fun fact: ... My college major is mechanical engineering, in another words => Desingning solutions for problems with many variables :mechanic: :technologist:. 
